@@ -1,6 +1,6 @@
-# Temperature in C sharp
+# Platform
 
-Calculate the temperature and translate fahrenheit to celsius in C# Dotnet Core GNU/Linux
+Tested on Ubuntu 22.04 LTS with Ubuntu Pro
 
 # License
 
@@ -27,4 +27,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
